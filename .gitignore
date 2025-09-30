@@ -6,7 +6,7 @@ yarn-error.log*
 
 # Production builds
 dist/
-build/
+# build/ - commented out for GitHub Pages deployment
 
 # Environment variables
 .env
